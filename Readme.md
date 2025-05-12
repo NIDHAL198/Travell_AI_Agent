@@ -173,7 +173,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgements
+## 🌾 Acknowledgements
 
 - [Google Generative AI](https://ai.google/discover/generativeai/) for powering our AI features
 - [SerpAPI](https://serpapi.com/) for travel data
